@@ -1,0 +1,32 @@
+.wraper{
+	overflow: hidden;
+
+}
+.box
+{
+	min-height: 100px;
+	width: 25%;
+	float: left;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.orange{
+	background-color: orange;
+}
+.footer{
+	min-height: 50px;
+	background-color: royalblue;
+}
+h1{
+	color: red;
+}
+.pink{
+	color: palegreen;
+}
